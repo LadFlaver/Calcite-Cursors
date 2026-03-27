@@ -1,0 +1,20 @@
+PNGs are made by batch exporting the "Cursor" page in Inkscape.
+These are all the suffixes with their corresponding DPIs:
+22: 8.25 DPI
+24: 9 DPI
+28: 10.5 DPI
+32: 12 DPI
+40: 15 DPI
+48: 18 DPI
+56: 21 DPI
+64: 24 DPI
+72: 27 DPI
+80: 30 DPI
+88: 33 DPI
+96: 36 DPI
+
+"cursorBase" has a drop shadow applied to it. The following are the drop shadows' properties:
+Blur radius: 2px
+Horizontal and vertical offset: 0.5px
+Shadow type: Outer
+Blur color: 000000ff
