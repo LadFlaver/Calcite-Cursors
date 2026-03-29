@@ -14,7 +14,7 @@ Modify the SVG files of your choosing, export as PNGs, and use xcursorgen to cre
 
 # Future Plans (these are not guaranteed yet)
 
- - A light theme version
- - Windows support
+ - A light theme version (in progress)
+ - Windows support (in progress)
  - More color options for the left_ptr_watch and wait cursors
  - Adding less common cursors e.g color picker
