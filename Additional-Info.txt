@@ -18,3 +18,4 @@ Blur radius: 2px
 Horizontal and vertical offset: 0.5px
 Shadow type: Outer
 Blur color: 000000ff
+Blur color (light): ffffffff
