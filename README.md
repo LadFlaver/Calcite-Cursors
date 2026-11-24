@@ -15,9 +15,11 @@ Calcite Cursors are a set of cursors created by me (Magpyka) for Linux. The most
 
 ## For Linux:
 Download a release and put it in your /usr/share/icons folder and select it through whatever means your distro provides for that.
+To select other color options, navigate to cursors/loading_custom and find your desired color. Run the .sh file within the color's folder in order to replace the current left_ptr_watch or wait cursors
 
 ## For Windows:
 Download a release and select the corresponding cursor files in your pointer settings.
+To select other color options, navigate to loading_custom and find your desired color
 
 # To make your own version
 
