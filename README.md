@@ -1,6 +1,6 @@
 # Calcite Cursors
 
-Calcite Cursors are a set of cursors created by me (Lad_Flaver) for Linux. The most unique feature is that the loading wheel animation is a part of the pointer itself. The name "Calcite" comes from the fact that I'm a huge geology nerd and thought it sounded cool.
+Calcite Cursors are a set of cursors created by me (Magpyka) for Linux. The most unique feature is that the loading wheel animation is a part of the pointer itself. The name "Calcite" comes from the fact that I'm a huge geology nerd and thought it sounded cool.
 
 ## Calcite Cursors
 
@@ -25,5 +25,4 @@ Modify the SVG files of your choosing, export as PNGs, and use xcursorgen to cre
 
 # Future Plans (these are not guaranteed yet)
 
- - More color options for the left_ptr_watch and wait cursors
  - Adding less common cursors e.g color picker

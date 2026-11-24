@@ -1,4 +1,4 @@
-PNGs are made by batch exporting the "Cursor" page in Inkscape.
+PNGs are made by batch exporting the "Cursor" page in Inkscape. EVERYTHING MUST BE EXPORTED AS PAGES! INKSCAPE GETS THE ASPECT RATIO WRONG IF NOT!
 These are all the suffixes with their corresponding DPIs:
 22: 8.25 DPI
 24: 9 DPI
@@ -19,3 +19,6 @@ Horizontal and vertical offset: 0.5px
 Shadow type: Outer
 Blur color: 000000ff
 Blur color (light): ffffffff
+
+For Linux: frametime is 41 milliseconds ~24 FPS
+For Windows: frametime is 3. I'm unsure what the measurment is
