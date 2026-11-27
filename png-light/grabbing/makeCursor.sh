@@ -1,0 +1,1 @@
+xcursorgen grabbing.cursor grabbing

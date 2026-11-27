@@ -1,0 +1,12 @@
+convert Cursor_192.png -resize 96x96 Cursor_96.png
+convert Cursor_192.png -resize 88x88 Cursor_88.png
+convert Cursor_192.png -resize 80x80 Cursor_80.png
+convert Cursor_192.png -resize 72x72 Cursor_72.png
+convert Cursor_192.png -resize 64x64 Cursor_64.png
+convert Cursor_192.png -resize 56x56 Cursor_56.png
+convert Cursor_192.png -resize 48x48 Cursor_48.png
+convert Cursor_192.png -resize 40x40 Cursor_40.png
+convert Cursor_192.png -resize 32x32 Cursor_32.png
+convert Cursor_192.png -resize 28x28 Cursor_28.png
+convert Cursor_192.png -resize 24x24 Cursor_24.png
+convert Cursor_192.png -resize 22x22 Cursor_22.png

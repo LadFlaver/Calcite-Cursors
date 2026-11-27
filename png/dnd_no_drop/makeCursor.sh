@@ -1,0 +1,1 @@
+xcursorgen dnd_no_drop.cursor dnd_no_drop

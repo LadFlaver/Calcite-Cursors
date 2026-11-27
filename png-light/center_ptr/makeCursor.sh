@@ -1,0 +1,1 @@
+xcursorgen center_ptr.cursor center_ptr

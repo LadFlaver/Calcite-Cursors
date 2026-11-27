@@ -1,0 +1,1 @@
+xcursorgen crossed_circle.cursor crossed_circle

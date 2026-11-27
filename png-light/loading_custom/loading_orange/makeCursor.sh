@@ -1,0 +1,1 @@
+xcursorgen loading_orange.cursor loading_orange

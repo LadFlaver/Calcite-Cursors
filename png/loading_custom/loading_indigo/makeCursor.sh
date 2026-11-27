@@ -1,0 +1,1 @@
+xcursorgen loading_indigo.cursor loading_indigo

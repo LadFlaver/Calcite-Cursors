@@ -1,3 +1,4 @@
 [Icon Theme]
 Name=Calcite-Cursors
 Comment=A set of visually appealing cursors where the cursor itself is the loading wheel
+Inherits=hicolor

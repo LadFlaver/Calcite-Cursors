@@ -1,0 +1,1 @@
+xcursorgen loading_yellow.cursor loading_yellow

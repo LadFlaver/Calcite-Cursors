@@ -1,0 +1,18 @@
+SVGs are made in Inkscape and exported as PNGs
+Each PNG is 192x192 px and is exported to its respective folder without antialiasing (Inkscape's antialiasing will cause artifacts with these file) Some may need cleanup (I use GIMP)
+PNGs are then resized to each resolution using resize script (ImageMagick)
+PNGs are then made into xcursors using the scripts (xcursorgen)
+For Window's cursor formats, xcursors are opened using RealWorldCursor (using the Linux Xcursor Codec plugin) and are exported to Window's formats
+
+Additional Informations:
+PNGs should be exported as "page" to preserve image aspect ratios
+
+"cursorBase" and "circleBas" have drop shadows applied. The following are the drop shadows' properties:
+Blur radius: 2px
+Horizontal and vertical offset: 0.5px
+Shadow type: Outer
+Blur color: 000000ff
+Blur color (light): ffffffff
+
+For Linux: frametime is 41 milliseconds ~24 FPS
+For Windows: frametime is 3

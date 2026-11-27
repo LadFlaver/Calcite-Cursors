@@ -1,0 +1,1 @@
+xcursorgen copy.cursor copy

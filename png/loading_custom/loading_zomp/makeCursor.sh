@@ -1,0 +1,1 @@
+xcursorgen loading_zomp.cursor loading_zomp

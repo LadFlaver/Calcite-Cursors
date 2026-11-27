@@ -1,0 +1,1 @@
+xcursorgen sb_h_double_arrow.cursor sb_h_double_arrow

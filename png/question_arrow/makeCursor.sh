@@ -1,0 +1,1 @@
+xcursorgen question_arrow.cursor question_arrow

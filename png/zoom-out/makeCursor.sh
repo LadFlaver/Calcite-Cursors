@@ -1,0 +1,1 @@
+xcursorgen zoom-out.cursor zoom-out

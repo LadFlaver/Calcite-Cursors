@@ -1,0 +1,1 @@
+xcursorgen person.cursor person

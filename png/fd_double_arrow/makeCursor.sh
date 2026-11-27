@@ -1,0 +1,1 @@
+xcursorgen fd_double_arrow.cursor fd_double_arrow

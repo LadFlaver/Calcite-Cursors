@@ -1,0 +1,1 @@
+xcursorgen left_ptr_watch.cursor left_ptr_watch

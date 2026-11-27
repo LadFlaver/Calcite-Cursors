@@ -1,0 +1,1 @@
+xcursorgen xterm.cursor xterm

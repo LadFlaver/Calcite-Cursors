@@ -1,0 +1,1 @@
+xcursorgen loading_cyan.cursor loading_cyan

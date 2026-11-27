@@ -1,0 +1,1 @@
+xcursorgen bd_double_arrow.cursor bd_double_arrow
