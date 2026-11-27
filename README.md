@@ -1,14 +1,14 @@
 # Calcite Cursors
 
-Calcite Cursors are a set of cursors created by me (Magpyka) for Linux. The most unique feature is that the loading wheel animation is a part of the pointer itself. The name "Calcite" comes from the fact that I'm a huge geology nerd and thought it sounded cool.
+Calcite Cursors are a set of cursors created by me (Magpyka) for Linux. The most unique feature is that the loading wheel animation is a part of the pointer itself. The name "Calcite" comes from the fact that I'm a huge geology nerd and thought it sounded cool. Features 12 different color options for the loading wheels
 
 ## Calcite Cursors
 
-<img width="768" height="384" alt="Calcite-Preview" src="https://github.com/user-attachments/assets/d39accfd-a8d0-404d-ada2-ad38ffd54118" />
+<img width="768" height="384" alt="Calcite-Preview" src="https://raw.githubusercontent.com/LadFlaver/Calcite-Cursors/refs/heads/main/previews/dark.webp" />
 
 ## Calcite Cursors Light Version
 
-<img width="768" height="384" alt="Calcite-Preview-Light" src="https://github.com/user-attachments/assets/44a2c3b5-baed-4f61-8124-e67045591ff6" />
+<img width="768" height="384" alt="Calcite-Preview-Light" src="https://raw.githubusercontent.com/LadFlaver/Calcite-Cursors/refs/heads/main/previews/light.webp" />
 
 
 # To use
